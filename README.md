@@ -2,7 +2,11 @@
 
 This is the readme of Ian Balderston
 
+<<<<<<< HEAD
+- Favorite Numbers are: 3, 8, 15, 36, 42, 56 
+=======
 - Favorite Numbers are: 3, 8, 15, 32, 42, 56, 99
+>>>>>>> 477608c794cd29206aae236db6bdfec21446301e
 
 When I make changes to my code: 
 
